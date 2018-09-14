@@ -1,0 +1,30 @@
+body {
+    background-color:rgb(255, 224, 85)
+}
+
+
+
+#title {
+    color:rgb(75, 148, 79);
+}
+.hour {
+    color:rgb(0, 0, 0);
+    
+}
+
+#terminal { 
+    
+color: red;
+
+}
+
+p {
+    font-size: 36px;
+    text-align: center;
+    color:red;
+}
+
+
+.hourTitle {
+    font-weight: bold;
+}
